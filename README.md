@@ -1,3 +1,6 @@
+#Exemple de títol H1
+### Exemple de títol H3
+###### Exemle de títol H6
 <header>
 
 <!--
